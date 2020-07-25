@@ -40,7 +40,7 @@
                   
                   <div class="courses-content-bottom">
                       <h4 class="price">$120</h4>
-                      <h4><a href="#" class="btn btn-primary">Read More</a></h4>
+                      <h4><a href="/course/test" class="btn btn-primary">Read More</a></h4>
                   </div>
               </div>
           </div>
