@@ -1,11 +1,11 @@
 <!-- Start Main Menu Area -->
-<div class="main-header-area header-sticky">
+<div class="main-header-area navbar-area header-sticky">
   <div class="container">
     <div class="classy-nav-container breakpoint-off">
       <nav class="classy-navbar justify-content-between" id="EduStudyNav">
 
         <!-- Logo -->
-        <a class="nav-brand" href="/"><img src="assets/img/logo.png" alt="logo"></a>
+        <a class="nav-brand" href="/"><img src="/assets/img/logo.png" alt="logo"></a>
 
         <!-- Navbar Toggler -->
         <div class="classy-navbar-toggler">
