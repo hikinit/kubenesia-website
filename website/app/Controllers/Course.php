@@ -1,10 +1,15 @@
 <?php namespace App\Controllers;
 
-class Home extends BaseController
+class Course extends BaseController
 {
 	public function index()
 	{
-		return view('home');
+		return view('course/index');
+	}
+
+	public function detail()
+	{
+		return view('course/detail');
 	}
 
 	//--------------------------------------------------------------------
